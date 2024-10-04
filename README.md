@@ -1,1 +1,1 @@
-# hamming
+# Verification Environment For Hamming
