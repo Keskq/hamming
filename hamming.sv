@@ -2,8 +2,6 @@
 // This is a Verilog file that defines a hamming encoder. 
 //
 //---------------------------------------------------------------------------
-`timescale 1ns/100fs
-
 module hamming (input clk, input [7:1] x , output logic [11:1] z );
  
 always @(posedge clk)
